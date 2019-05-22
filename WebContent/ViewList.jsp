@@ -9,11 +9,7 @@
 </head>
 <body>
 	<c:forEach var="item" items="${ list }">
-<<<<<<< HEAD
 		${ item }<br>
-=======
-		${ item }
->>>>>>> db154b6c3f93b52aa9a7d3fd4f7a3e6bc74a783f
 	</c:forEach>
 </body>
 </html>
